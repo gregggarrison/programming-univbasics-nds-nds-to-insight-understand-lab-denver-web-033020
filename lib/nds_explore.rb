@@ -18,6 +18,8 @@ def print_first_directors_movie_titles
   end 
 end
 
+# I CHEATED 0N THIS ONE....... :)
+
 
 # def print_first_directors_movie_titles
 #   movies_ar = directors_database[0][:movies]
